@@ -6,9 +6,6 @@ Cephrius AI is an innovative AI project aimed at revolutionizing the way you app
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
 
